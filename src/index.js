@@ -20,6 +20,7 @@ function BScroll(el, options) {
   }
   // cache style for better performance
   this.scrollerStyle = this.scroller.style
+  // 测试git上传
 
   this._init(el, options)
 }
